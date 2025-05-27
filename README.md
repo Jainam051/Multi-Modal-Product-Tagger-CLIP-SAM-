@@ -10,14 +10,6 @@ This project takes an input image, segments all objects using **SAM**, and class
 
 ---
 
-## 🚀 Demo
-
-![demo](https://user-images.githubusercontent.com/demo-placeholder.gif)
-
-Try it locally using the Gradio interface — no complex UI code needed.
-
----
-
 ## 🧰 Features
 
 - 🔍 Object segmentation using SAM
