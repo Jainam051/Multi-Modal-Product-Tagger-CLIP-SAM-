@@ -17,13 +17,3 @@ This project takes an input image, segments all objects using **SAM**, and class
 - 🎨 Real-time visualization of segments
 - 🌐 Simple, shareable Gradio interface
 
----
-
-## 🛠 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/multimodal-product-tagger.git
-cd multimodal-product-tagger
-# SAM-CLIP-Tagger
